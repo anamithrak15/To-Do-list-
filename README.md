@@ -10,7 +10,7 @@
 # To access this project:
 1. Clone the repository to your local machine.
 2. Install dependencies using **npm install**.
-3. Start the development server #with **npm start**.
+3. Start the development server with **npm start**.
 4. Open the application in your browser (local host) - http://localhost:3000.
 
 
